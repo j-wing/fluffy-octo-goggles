@@ -33,7 +33,7 @@
     "ts-loader": "^5.3.3",
     "tsc-watch": "^1.1.34",
     "webpack": "^4.28.4",
-    "webpack-cli": "^3.2.1"
+    "webpack-cli": "^3.3.12"
   },
   "scripts": {
     "start": "npm run serve",
